@@ -1,2 +1,1 @@
-# Ananya
-This is my first repository.
+Author:Ananya Kumari
